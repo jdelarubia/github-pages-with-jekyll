@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+theme: minima
+title: minimal-personal-blog
+author: jdelarubia
+description: A tiny personal blogging adventure.
